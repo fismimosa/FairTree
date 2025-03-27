@@ -4,14 +4,9 @@
 > This code is relative to `Balancing Fairness and Interpretability in Clustering with FairParTree` published at XAI25. For futher development refear to [RuleTree main repository](https://github.com/fismimosa/RuleTree).
 
 The revolution involving Machine Learning has transformed data analytics, making algorithms important in decision-making processes across various domains, even in sensitive scenarios. Indeed, traditional clustering algorithms often lack interpretability and exhibit biases, leading to discriminatory practices and opaque decision-making. 
-
 To overcome these limitations, we introduce FairParTree, a fair and interpretable clustering algorithm that integrates fairness constraints directly into the clustering process, ensuring that the resulting clusters do not disproportionately disadvantage any particular group. 
-
 By leveraging the structure of decision trees, FairParTree enhances the interpretability of clustering results by providing clear and understandable motivations for cluster assignments through rule-based explanations. 
-
-We evaluate FairParTree against state-of-the-art competitors. Through extensive experiments, we show that it maintains strong performances w.r.t. fairness, interpretability, and clustering quality across different dataset sizes, thus positioning itself as a competitive, fair, and interpretable clustering algorithm. 
-
-This code is relative to Balancing Fairness and Interpretability in Clustering with FairParTree published at XAI25. For futher development refear to RuleTree main repository.
+We evaluate FairParTree against state-of-the-art competitors. Through extensive experiments, we show that it maintains strong performances w.r.t. fairness, interpretability, and clustering quality across different dataset sizes, thus positioning itself as a competitive, fair, and interpretable clustering algorithm.
 
 ## Setup
 
